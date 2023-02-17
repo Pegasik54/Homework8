@@ -81,4 +81,4 @@ function talk() {
 calling();
 beeps(talk);
 
-
+// Отпправляю на проверку
